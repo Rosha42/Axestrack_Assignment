@@ -1,8 +1,8 @@
 #Axestrack_Assignment
 
 #Question_1
-predictive search                      I have used a N-ary tree to store list of words and carry out search on that tree.
-Predictive_Search.c
+predictive search:-                      I have used a N-ary tree to store list of words and carry out search on that tree.                 
+               Predictive_Search.c       
 commands 
 gcc Predictive_Search.c       
 ./a.out
