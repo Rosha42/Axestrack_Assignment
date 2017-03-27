@@ -1,4 +1,10 @@
-#Final_Assignment                                                                                         
+#Final_Assignment                                                                 
+FileName :-Hex_Splitter.c                                       
+Commands:-                                                                       
+gcc Hex_Splitter.c                                                                  
+./a.out  
+                                                   
+#Java File
 Commands:-                                                                 
 javac Hex_Splitter.java                                                               
 java Hex_Splitter                                            
